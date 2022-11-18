@@ -1,0 +1,4 @@
+pgdata
+src/_build
+src/assets/node_modules
+src/deps
